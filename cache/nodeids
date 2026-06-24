@@ -1,0 +1,10 @@
+[
+  "tests/test_advisor.py::test_recommendation_cold_weather",
+  "tests/test_advisor.py::test_recommendation_high_smog",
+  "tests/test_advisor.py::test_recommendation_hot_weather",
+  "tests/test_advisor.py::test_recommendation_perfect_weather",
+  "tests/test_weather.py::test_air_quality_fixed_value",
+  "tests/test_weather.py::test_air_quality_simulated_in_range",
+  "tests/test_weather.py::test_get_temperature_invalid_city_raises",
+  "tests/test_weather.py::test_get_temperature_success"
+]
