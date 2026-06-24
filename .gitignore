@@ -1,0 +1,17 @@
+# Sekrety / konfiguracja lokalna
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Środowiska wirtualne
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
